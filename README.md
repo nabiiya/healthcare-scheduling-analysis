@@ -3,10 +3,9 @@
 Healthcare appointment scheduling analysis using Python, PostgreSQL, SQL, and Tableau to evaluate no-shows, wait times, late starts, and slot utilization.
 
 ## Dashboard
-<img width="1228" height="1090" alt="Dashboard" src="https://github.com/user-attachments/assets/2b62ec6c-1768-48f3-9cc2-127a5386ece9" />
+<img width="997" height="900" alt="image" src="https://github.com/user-attachments/assets/1d28edb9-0964-4430-8c9e-0a80a3065fe9" />
 
-
-[View the Interactive Dashboard on Tableau Public (https://public.tableau.com/app/profile/caitlin.g4506/viz/Healthcare_appt_efficiency_dashboard/Dashboard?publish=yes)
+[View the Interactive Dashboard on Tableau Public (https://public.tableau.com/app/profile/caitlin.g4506/viz/Healthcare_appt_efficiency_dashboard/Dashboard)
 
 ## Business Problem
 
